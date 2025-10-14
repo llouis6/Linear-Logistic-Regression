@@ -2,6 +2,9 @@
 
 A from-scratch implementation of linear and logistic regression models using only NumPy. This project demonstrates the complete machine learning pipeline—from feature engineering to model evaluation—on real-world classification tasks.
 
+## Report
+[LR_Classifcation Report (PDF)](<Linear Regression Report.pdf>)
+
 ## What This Is
 
 I built these classification algorithms from first principles without using high-level ML libraries like scikit-learn (except for metrics and preprocessing utilities). The implementation includes:
