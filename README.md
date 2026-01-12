@@ -19,7 +19,7 @@ The models are tested on the [UCI Breast Cancer](https://archive.ics.uci.edu/ml/
 ## Getting Started
 
 ```bash
-git clone <your-repo-url>
+git clone git clone https://github.com/llouis6/Linear-Logistic-Regression.git
 cd LRC
 
 python3 -m venv venv
