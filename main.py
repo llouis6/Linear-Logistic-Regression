@@ -59,8 +59,8 @@ def run_feature_analysis(bc_exists, wine_exists):
         print(ranked_features.head(10))
         
         # Uncomment to show plots
-        # plot_feature_importance_multiclass(data['feature_names'], feature_importance, n_classes=n_classes,
-        #                                    title_prefix="Feature Importance - Wine")
+        plot_feature_importance_multiclass(data['feature_names'], feature_importance, n_classes=n_classes,
+                                            title_prefix="Feature Importance - Wine")
 
 
 def run_model_training(bc_exists, wine_exists):
