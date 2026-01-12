@@ -5,3 +5,7 @@ seaborn>=0.11.0
 scikit-learn>=1.0.0
 ucimlrepo
 
+# API Dependencies
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.0.0

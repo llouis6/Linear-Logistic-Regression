@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+LRC/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Git
+.git/
+.gitignore
+
+# Data (datasets will be downloaded at runtime)
+data/
+
+# Experiments output
+*.png
+*.jpg
+*.pdf
+
+# Documentation
+README.md
+LICENSE
